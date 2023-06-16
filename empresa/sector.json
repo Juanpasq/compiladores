@@ -1,0 +1,332 @@
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a954"),
+    "CHOMBA" : "2",
+    "" : "Código",
+    "PANTALON" : "2",
+    "CAMISA" : "2",
+    "REMERA" : "2",
+    "CAMPERA ROMPEVIENTO" : "1",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "1",
+    "GORRAS" : "1",
+    "CHALECO /chaleco VIAL DISTINTO" : "1",
+    "LENTES" : "1"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a955"),
+    "SECTOR" : "MAESTRANZA (operaciones)",
+    "NOMEN" : {
+        "" : "MAE"
+    },
+    "PANTALON" : "Cargo azul marino con reflectivo",
+    "CAMISA" : "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera azul marino",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a956"),
+    "SECTOR" : "SUPERVISORES, ADMINISTRACION Y JEFATURA UOCRA (conservacion)",
+    "NOMEN" : {
+        "" : "SJU"
+    },
+    "CHOMBA" : "Manga corta azul marino con reflectivo",
+    "PANTALON" : "Jean",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera azul marino",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a957"),
+    "SECTOR" : "SUPERVISORES DE OBRA - oficina técnica",
+    "NOMEN" : {
+        "" : "SJO"
+    },
+    "CHOMBA" : "Manga corta azul marino con reflectivo",
+    "PANTALON" : "Jean",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera azul marino",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a958"),
+    "SECTOR" : "SUPERVISORES DE OBRA - Sergio Martorello MUJERES",
+    "NOMEN" : {
+        "" : "SJO-1"
+    },
+    "CHOMBA" : "Manga corta azul marino con reflectivo",
+    "PANTALON" : "Jean elastizado",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera azul marino",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a959"),
+    "SECTOR" : "MANT. VIAL uocra (conservación)",
+    "NOMEN" : {
+        "" : "PAS"
+    },
+    "" : "5512",
+    "PANTALON" : "Cargo naranja fluo con reflectivo",
+    "CAMISA" : "Manga larga naranja fluo con reflectivo",
+    "REMERA" : "Naranja fluo con reflectivo",
+    "CAMPERA ROMPEVIENTO" : "Naranja fluo con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Botin dialectrico con puntera",
+    "GORRAS" : "Con visera naranja fluo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo",
+    "LENTES" : "Seguridad Inactinos filtro UV Para soldar"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a95a"),
+    "SECTOR" : "MANT. VIAL uocra (conservación)",
+    "NOMEN" : {
+        "" : "MAV"
+    },
+    "" : "5512",
+    "PANTALON" : "Cargo naranja fluo con reflectivo",
+    "CAMISA" : "Manga larga naranja fluo con reflectivo",
+    "REMERA" : "Naranja fluo con reflectivo",
+    "CAMPERA ROMPEVIENTO" : "Naranja fluo con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Botin dialectrico con puntera",
+    "GORRAS" : "Con visera naranja fluo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo",
+    "LENTES" : "Seguridad Inactinos filtro UV Para soldar"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a95b"),
+    "SECTOR" : "MANT. VIAL uocra (conservación)",
+    "NOMEN" : {
+        "" : "MAVA"
+    },
+    "PANTALON" : "Cargo naranja fluo con reflectivo",
+    "CAMISA" : "Manga larga naranja fluo con reflectivo",
+    "REMERA" : "Naranja fluo con reflectivo",
+    "CAMPERA ROMPEVIENTO" : "Naranja fluo con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Botin dialectrico con puntera",
+    "GORRAS" : "Con visera naranja fluo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a95c"),
+    "SECTOR" : "Taller (Juan Bonfiglio)",
+    "NOMEN" : {
+        "" : "MAVA-T"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo",
+    "PANTALON" : "Cargo azul marino con reflectivo",
+    "REMERA" : "Azul marino sin reflectivo",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera azul marino",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a95d"),
+    "SECTOR" : "ADMINISTRATIVAS (Adrian Zenobi)",
+    "NOMEN" : {
+        "" : "ADMM"
+    },
+    "PANTALON" : "Vestir negro Mujer",
+    "CAMISA" : "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA",
+    "CAMPERA ROMPEVIENTO" : "Azul marino  sin reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a95e"),
+    "SECTOR" : "ADMINISTRATIVOS (Adrian Zenobi)",
+    "NOMEN" : {
+        "" : "ADMV"
+    },
+    "PANTALON" : "Pantalon de gabardina azul - tipo jean",
+    "CAMISA" : "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+    "CAMPERA ROMPEVIENTO" : "Azul marino  sin reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a95f"),
+    "SECTOR" : "AGENTE VIAL Y SUPERVISORES (OSCAR LICATA)",
+    "NOMEN" : {
+        "" : "AGV"
+    },
+    "" : "6187",
+    "PANTALON" : "Cargo amarillo fluo con reflectivo",
+    "REMERA" : "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO",
+    "CAMPERA ROMPEVIENTO" : "Amarillo fluo con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera amarillo fluo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo VIAL",
+    "LENTES" : "Lentes Seguridad Fitlogic fume con filtro UV"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a960"),
+    "SECTOR" : "PCL - CAE (OSCAR LICATA)",
+    "NOMEN" : {
+        "" : "CAE"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo",
+    "PANTALON" : "Jean",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a961"),
+    "SECTOR" : "CAJEROS  (Adrian Zenobi)",
+    "NOMEN" : {
+        "" : "CAJ"
+    },
+    "CHOMBA" : "Manga corta azul marino con reflectivo",
+    "PANTALON" : "Cargo azul marino con reflectivo",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a962"),
+    "SECTOR" : "JEFES ESTACION Y OTROS HOMBRES",
+    "NOMEN" : {
+        "" : "JEF-H"
+    },
+    "PANTALON" : "Jean",
+    "CAMISA" : "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a963"),
+    "SECTOR" : "JEFES ESTACION Y OTROS MUJERES",
+    "NOMEN" : {
+        "" : "JEF-M"
+    },
+    "PANTALON" : "Vestir negro Mujer",
+    "CAMISA" : "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a964"),
+    "SECTOR" : "SUPERVISORES DE PEAJE Y TESOREROS -hombre",
+    "NOMEN" : {
+        "" : "SPTH-VIAL"
+    },
+    "" : "6187",
+    "PANTALON" : "Cargo amarillo fluo con reflectivo",
+    "REMERA" : "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO",
+    "CAMPERA ROMPEVIENTO" : "Amarillo fluo con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera amarillo fluo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo VIAL",
+    "LENTES" : "Lentes Seguridad Fitlogic fume con filtro UV"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a965"),
+    "SECTOR" : "SUPERVISORES DE PEAJE Y TESOREROS -hombre",
+    "NOMEN" : {
+        "" : "SPTH"
+    },
+    "CHOMBA" : "Manga corta azul marino con reflectivo",
+    "PANTALON" : "Pantalon de gabardina azul - tipo jean",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a966"),
+    "SECTOR" : "SUPERVISORES DE PEAJE Y TESOREROS -mujer",
+    "NOMEN" : {
+        "" : "SPTM"
+    },
+    "CHOMBA" : "Manga corta azul marino con reflectivo",
+    "PANTALON" : "Vestir negro Mujer",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a967"),
+    "SECTOR" : "BANDERILLERO (ADRIAN ZENOBI)",
+    "NOMEN" : {
+        "" : "BAN"
+    },
+    "" : "6187",
+    "PANTALON" : "Cargo amarillo fluo con reflectivo",
+    "CAMISA" : "Manga larga amarillo fluo con reflectivo",
+    "REMERA" : "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO",
+    "CAMPERA ROMPEVIENTO" : "Amarillo fluo con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera amarillo fluo",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo",
+    "LENTES" : "Lentes Seguridad Fitlogic fume con filtro UV"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a968"),
+    "SECTOR" : "SERVICIOS GENERALES",
+    "NOMEN" : {
+        "" : "SEG"
+    },
+    "PANTALON" : "Cargo azul marino con reflectivo",
+    "CAMISA" : "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+    "REMERA" : "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera azul marino",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a969"),
+    "SECTOR" : "MANTENIMIENTO ELECTRONICO Y SISTEMAS ",
+    "NOMEN" : {
+        "" : "MAN"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo",
+    "" : "5512",
+    "PANTALON" : "Cargo azul ignifugo con reflectivo",
+    "CAMISA" : "Manga larga azul ignifuga con reflectivo",
+    "CAMPERA ROMPEVIENTO" : "Azul marino ignifugo con reflectivo",
+    "CALZADO: (882 y 6000) cada 6 meses - 6017 una vez al año en invierno" : "Zapato seguridad dialectrico con puntera",
+    "GORRAS" : "Con visera azul marino",
+    "CHALECO /chaleco VIAL DISTINTO" : "Amarillo fluo con reflectivo",
+    "LENTES" : "Seguridad Inactinos filtro UV Para soldar"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a96a"),
+    "SECTOR" : "LOCUTORES RADIO",
+    "NOMEN" : {
+        "" : "LOC"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo",
+    "PANTALON" : "Jean",
+    "CAMPERA ROMPEVIENTO" : "Azul marino  sin reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a96b"),
+    "SECTOR" : "PRODUCTORES RADIO",
+    "NOMEN" : {
+        "" : "PROD-R"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a96c"),
+    "SECTOR" : "SUP -COMERCIAL MDP",
+    "NOMEN" : {
+        "" : "SPTM-MDP"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo",
+    "PANTALON" : "Jean elastizado",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a96d"),
+    "SECTOR" : "ADM -COMERCIAL MDP",
+    "NOMEN" : {
+        "" : "ADMV-MDP"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo",
+    "PANTALON" : "Pantalon de gabardina azul - tipo jean",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo"
+}
+{
+    "_id" : ObjectId("647ad57f257dc7d84649a96e"),
+    "SECTOR" : "ADM -COMERCIAL MDP -mujer",
+    "NOMEN" : {
+        "" : "ADMM-MDP"
+    },
+    "CHOMBA" : "Manga corta azul marino SIN reflectivo",
+    "PANTALON" : "Jean elastizado",
+    "CAMPERA ROMPEVIENTO" : "Azul marino con reflectivo"
+}

@@ -1,0 +1,238 @@
+{
+    "_id" : ObjectId("648bea03d10a883f22173d49"),
+    "codigo" : NumberInt(6177),
+    "nombre" : "chomba",
+    "detalle" : "Manga corta azul marino con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bea22d10a883f22173d4a"),
+    "codigo" : NumberInt(5682),
+    "nombre" : "chomba",
+    "detalle" : "Manga corta azul marino SIN reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648beacfd10a883f22173d50"),
+    "codigo" : NumberInt(5689),
+    "nombre" : "pantalon",
+    "detalle" : "Cargo azul marino con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648beaf6d10a883f22173d51"),
+    "codigo" : NumberInt(369),
+    "nombre" : "pantalon",
+    "detalle" : "jeans",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648beb0ad10a883f22173d52"),
+    "codigo" : NumberInt(6372),
+    "nombre" : "pantalon",
+    "detalle" : "jeans elastizado",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648beb23d10a883f22173d53"),
+    "codigo" : NumberInt(5684),
+    "nombre" : "pantalon",
+    "detalle" : "Cargo naranja fluo con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648beb66d10a883f22173d54"),
+    "codigo" : NumberInt(759),
+    "nombre" : "pantalon",
+    "detalle" : "Vestir negro Mujer",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648beb7dd10a883f22173d55"),
+    "codigo" : NumberInt(6371),
+    "nombre" : "pantalon",
+    "detalle" : "Pantalon de gabardina azul - tipo jean",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bebaad10a883f22173d56"),
+    "codigo" : NumberInt(5685),
+    "nombre" : "pantalon",
+    "detalle" : "Cargo amarillo fluo con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bebe3d10a883f22173d58"),
+    "codigo" : NumberInt(5690),
+    "nombre" : "pantalon",
+    "detalle" : "Cargo azul ignifugo con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bec5bd10a883f22173d5a"),
+    "codigo" : NumberInt(5692),
+    "nombre" : "camisa",
+    "detalle" : "Manga larga naranja fluo con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bec76d10a883f22173d5b"),
+    "codigo" : NumberInt(548),
+    "nombre" : "camisa",
+    "detalle" : "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bec8ad10a883f22173d5c"),
+    "codigo" : NumberInt(559),
+    "nombre" : "camisa",
+    "detalle" : "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648beca6d10a883f22173d5d"),
+    "codigo" : NumberInt(5693),
+    "nombre" : "camisa",
+    "detalle" : "Manga larga amarillo fluo con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648becbdd10a883f22173d5e"),
+    "codigo" : NumberInt(5696),
+    "nombre" : "camisa",
+    "detalle" : "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648becced10a883f22173d5f"),
+    "codigo" : NumberInt(5698),
+    "nombre" : "camisa",
+    "detalle" : "Manga larga azul ignifuga con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648becf6d10a883f22173d60"),
+    "codigo" : NumberInt(6181),
+    "nombre" : "remera",
+    "detalle" : "Naranja fluo con reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bed09d10a883f22173d61"),
+    "codigo" : NumberInt(5705),
+    "nombre" : "remera",
+    "detalle" : "Azul marino sin reflectivo",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bed1ad10a883f22173d62"),
+    "codigo" : NumberInt(5789),
+    "nombre" : "remera",
+    "detalle" : "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bed34d10a883f22173d63"),
+    "codigo" : NumberInt(6816),
+    "nombre" : "remera",
+    "detalle" : "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+    "kit" : NumberInt(2)
+}
+{
+    "_id" : ObjectId("648bed62d10a883f22173d64"),
+    "codigo" : NumberInt(5713),
+    "nombre" : "campera",
+    "detalle" : "Azul marino con reflectivo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bed78d10a883f22173d65"),
+    "codigo" : NumberInt(5710),
+    "nombre" : "campera",
+    "detalle" : "Naranja fluo con reflectivo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bed8dd10a883f22173d66"),
+    "codigo" : NumberInt(6182),
+    "nombre" : "campera",
+    "detalle" : "Azul marino  sin reflectivo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648beda0d10a883f22173d67"),
+    "codigo" : NumberInt(5711),
+    "nombre" : "campera",
+    "detalle" : "Amarillo fluo con reflectivo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bedc9d10a883f22173d68"),
+    "codigo" : NumberInt(5716),
+    "nombre" : "campera",
+    "detalle" : "Azul marino ignifugo con reflectivo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bee1ad10a883f22173d69"),
+    "codigo" : NumberInt(882),
+    "nombre" : "calzado",
+    "detalle" : "Zapato seguridad dialectrico con puntera",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bee35d10a883f22173d6a"),
+    "codigo" : NumberInt(6000),
+    "nombre" : "calzado",
+    "detalle" : "Botin dialectrico con puntera",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bee63d10a883f22173d6b"),
+    "codigo" : NumberInt(5724),
+    "nombre" : "gorras",
+    "detalle" : "Con visera azul marino",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bee77d10a883f22173d6c"),
+    "codigo" : NumberInt(5723),
+    "nombre" : "gorras",
+    "detalle" : "Con visera naranja fluo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bee90d10a883f22173d6d"),
+    "codigo" : NumberInt(5725),
+    "nombre" : "gorras",
+    "detalle" : "Con visera amarillo fluo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648beeb8d10a883f22173d6e"),
+    "codigo" : NumberInt(4317),
+    "nombre" : "chaleco",
+    "detalle" : "Amarillo fluo con reflectivo",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648beed4d10a883f22173d6f"),
+    "codigo" : NumberInt(6790),
+    "nombre" : "chaleco",
+    "detalle" : "Amarillo fluo con reflectivo VIAL",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648beefad10a883f22173d70"),
+    "codigo" : NumberInt(5512),
+    "nombre" : "lentes",
+    "detalle" : "Seguridad Inactinos filtro UV Para soldar",
+    "kit" : NumberInt(1)
+}
+{
+    "_id" : ObjectId("648bef12d10a883f22173d71"),
+    "codigo" : NumberInt(6187),
+    "nombre" : "lentes",
+    "detalle" : "Lentes Seguridad Fitlogic fume con filtro UV",
+    "kit" : NumberInt(1)
+}
