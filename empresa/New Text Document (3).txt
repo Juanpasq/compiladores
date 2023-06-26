@@ -1,0 +1,60 @@
+Por Categoría, obtener la cantidad de personal asignado y su estado.
+
+db.empleados.aggregate([
+  {
+    $group: {
+      _id: "$Categoría",
+      cantidadPersonal: { $sum: 1 },
+      estados: { $push: "$Estado" }
+    }
+  }
+])
+
+
+Cantidad por Categoría (personal asignado y su estado) por frente:
+
+db.empleados.aggregate([
+  {
+    $group: {
+      _id: {
+        Frente: "$Frente (Lugar de Trabajo)",
+        Categoría: "$Categoría"
+      },
+      cantidadPersonal: { $sum: 1 },
+      estados: { $push: "$Estado" }
+    }
+  }
+])
+
+Cantidad por Sector/Nomenclador (personal asignado y su estado) por frente:
+
+db.empleados.aggregate([
+  {
+    $group: {
+      _id: {
+        Frente: "$Frente (Lugar de Trabajo)",
+        Sector: "$Nomenclador"
+      },
+      cantidadPersonal: { $sum: 1 },
+      estados: { $push: "$Estado" }
+    }
+  }
+])
+
+Cantidad por Categoría y Sector/Nomenclador (personal asignado y su estado) por frente:
+
+db.empleados.aggregate([
+  {
+    $group: {
+      _id: {
+        Frente: "$Frente (Lugar de Trabajo)",
+        Categoría: "$Categoría",
+        Sector: "$Nomenclador"
+      },
+      cantidadPersonal: { $sum: 1 },
+      estados: { $push: "$Estado" }
+    }
+  }
+])
+
+
