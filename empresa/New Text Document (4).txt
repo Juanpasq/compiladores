@@ -1,0 +1,21 @@
+indumentaria
+-id codigo
+-nombre
+-descripcion
+-kit
+-sector a donde distribuir??
+
+
+empleado
+-id legajo
+-nombre
+-sector
+-frente (o nomenclador)
+-estado
+-anteojos
+-pantalon
+
+
+sucursales o sector
+-frente
+-sector
