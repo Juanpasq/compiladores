@@ -1,0 +1,2187 @@
+[
+  {
+    "frente": "COMERCIAL",
+    "sectores": [
+      {
+        "nomenclador": "ADMM-MDP",
+        "descripcion": "Administración Comercial MDP (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6372",
+            "descripcion": "Jean elastizado"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "ADMV-MDP",
+        "descripcion": "Administración Comercial MDP",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTM-MDP",
+        "descripcion": "Supervisores Comercial MDP (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6372",
+            "descripcion": "Jean elastizado"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "CONSERVACION",
+    "sectores": [
+      {
+        "nomenclador": "PAS",
+        "descripcion": "Pasantes",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5684",
+            "descripcion": "Cargo naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5692",
+            "descripcion": "Manga larga naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6181",
+            "descripcion": "Naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5710",
+            "descripcion": "Naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "6000",
+            "descripcion": "Botin dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5723",
+            "descripcion": "Con visera naranja fluo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAV",
+        "descripcion": "Mantenimiento Vial UOCRA",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5684",
+            "descripcion": "Cargo naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5692",
+            "descripcion": "Manga larga naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6181",
+            "descripcion": "Naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5710",
+            "descripcion": "Naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "6000",
+            "descripcion": "Botin dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5723",
+            "descripcion": "Con visera naranja fluo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAVA",
+        "descripcion": "Mantenimiento Vial UOCRA",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5684",
+            "descripcion": "Cargo naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5692",
+            "descripcion": "Manga larga naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6181",
+            "descripcion": "Naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5710",
+            "descripcion": "Naranja fluo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "6000",
+            "descripcion": "Botin dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5723",
+            "descripcion": "Con visera naranja fluo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SJU",
+        "descripcion": "Supervisores y Administración UOCRA",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "ESTACION A",
+    "sectores": [
+      {
+        "nomenclador": "ADMM",
+        "descripcion": "Administración Mañana",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "759",
+            "descripcion": "Vestir negro Mujer"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "548",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "6182",
+            "descripcion": "Azul marino sin reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "ADMV",
+        "descripcion": "Administración Varios / Vespertino",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "559",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "6182",
+            "descripcion": "Azul marino sin reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "BAN",
+        "descripcion": "Banderillero",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5685",
+            "descripcion": "Cargo amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5693",
+            "descripcion": "Manga larga amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "5789",
+            "descripcion": "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5711",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5725",
+            "descripcion": "Con visera amarillo fluo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "6187",
+            "descripcion": "Lentes Seguridad Fitlogic fume con filtro UV"
+          }
+        ]
+      },
+      {
+        "nomenclador": "CAJ",
+        "descripcion": "Cajeros",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "JEF-H",
+        "descripcion": "Jefes de Estación y Otros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "559",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "JEF-M",
+        "descripcion": "Jefes de Estación y Otros (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "759",
+            "descripcion": "Vestir negro Mujer"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "548",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAE",
+        "descripcion": "Maestranza (Operaciones)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAN",
+        "descripcion": "Mantenimiento Electrónico y Sistemas",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5690",
+            "descripcion": "Cargo azul ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5698",
+            "descripcion": "Manga larga azul ignifuga con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5716",
+            "descripcion": "Azul marino ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SEG",
+        "descripcion": "Servicios Generales",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6816",
+            "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SJU",
+        "descripcion": "Supervisores y Administración UOCRA",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTH",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTM",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "759",
+            "descripcion": "Vestir negro Mujer"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "ESTACION B",
+    "sectores": [
+      {
+        "nomenclador": "ADMV",
+        "descripcion": "Administración Varios / Vespertino",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "559",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "6182",
+            "descripcion": "Azul marino sin reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "CAJ",
+        "descripcion": "Cajeros",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "JEF-H",
+        "descripcion": "Jefes de Estación y Otros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "559",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAE",
+        "descripcion": "Maestranza (Operaciones)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAN",
+        "descripcion": "Mantenimiento Electrónico y Sistemas",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5690",
+            "descripcion": "Cargo azul ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5698",
+            "descripcion": "Manga larga azul ignifuga con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5716",
+            "descripcion": "Azul marino ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SEG",
+        "descripcion": "Servicios Generales",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6816",
+            "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTH",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTM",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "759",
+            "descripcion": "Vestir negro Mujer"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "ESTACION C",
+    "sectores": [
+      {
+        "nomenclador": "CAJ",
+        "descripcion": "Cajeros",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "JEF-H",
+        "descripcion": "Jefes de Estación y Otros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "559",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAE",
+        "descripcion": "Maestranza (Operaciones)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAN",
+        "descripcion": "Mantenimiento Electrónico y Sistemas",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5690",
+            "descripcion": "Cargo azul ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5698",
+            "descripcion": "Manga larga azul ignifuga con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5716",
+            "descripcion": "Azul marino ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SEG",
+        "descripcion": "Servicios Generales",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6816",
+            "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTH",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTM",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "759",
+            "descripcion": "Vestir negro Mujer"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "ESTACION D",
+    "sectores": [
+      {
+        "nomenclador": "ADMM",
+        "descripcion": "Administración Mañana",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "759",
+            "descripcion": "Vestir negro Mujer"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "548",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "6182",
+            "descripcion": "Azul marino sin reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "CAJ",
+        "descripcion": "Cajeros",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "JEF-H",
+        "descripcion": "Jefes de Estación y Otros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "559",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAE",
+        "descripcion": "Maestranza (Operaciones)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAN",
+        "descripcion": "Mantenimiento Electrónico y Sistemas",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5690",
+            "descripcion": "Cargo azul ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5698",
+            "descripcion": "Manga larga azul ignifuga con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5716",
+            "descripcion": "Azul marino ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SEG",
+        "descripcion": "Servicios Generales",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6816",
+            "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTH",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "ESTACION E",
+    "sectores": [
+      {
+        "nomenclador": "CAJ",
+        "descripcion": "Cajeros",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "JEF-M",
+        "descripcion": "Jefes de Estación y Otros (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "759",
+            "descripcion": "Vestir negro Mujer"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "548",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAE",
+        "descripcion": "Maestranza (Operaciones)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAN",
+        "descripcion": "Mantenimiento Electrónico y Sistemas",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5690",
+            "descripcion": "Cargo azul ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5698",
+            "descripcion": "Manga larga azul ignifuga con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5716",
+            "descripcion": "Azul marino ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SEG",
+        "descripcion": "Servicios Generales",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6816",
+            "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTH",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "OFICINA",
+    "sectores": [
+      {
+        "nomenclador": "SJO",
+        "descripcion": "Supervisores de Obra (Oficina Técnica)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SJO-1",
+        "descripcion": "Supervisores de Obra (Mujeres)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "6177",
+            "descripcion": "Manga corta azul marino con reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6372",
+            "descripcion": "Jean elastizado"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "RADIO AM",
+    "sectores": [
+      {
+        "nomenclador": "LOC",
+        "descripcion": "Locutores Radio",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "6182",
+            "descripcion": "Azul marino sin reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "PROD-R",
+        "descripcion": "Productores Radio",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "SERVICIO",
+    "sectores": [
+      {
+        "nomenclador": "ADMV",
+        "descripcion": "Administración Varios / Vespertino",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "6371",
+            "descripcion": "Pantalon de gabardina azul - tipo jean"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "559",
+            "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "6182",
+            "descripcion": "Azul marino sin reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "AGV",
+        "descripcion": "Agente Vial y Supervisores",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5685",
+            "descripcion": "Cargo amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "5789",
+            "descripcion": "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5711",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5725",
+            "descripcion": "Con visera amarillo fluo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "6790",
+            "descripcion": "Amarillo fluo con reflectivo VIAL"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "6187",
+            "descripcion": "Lentes Seguridad Fitlogic fume con filtro UV"
+          }
+        ]
+      },
+      {
+        "nomenclador": "CAE",
+        "descripcion": "PCL - CAE",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "369",
+            "descripcion": "Jean"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "MAN",
+        "descripcion": "Mantenimiento Electrónico y Sistemas",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5690",
+            "descripcion": "Cargo azul ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5698",
+            "descripcion": "Manga larga azul ignifuga con reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5716",
+            "descripcion": "Azul marino ignifugo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "5512",
+            "descripcion": "Seguridad Inactinos filtro UV Para soldar"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SEG",
+        "descripcion": "Servicios Generales",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Camisa",
+            "cantidad": 2,
+            "codigo": "5696",
+            "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "6816",
+            "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      },
+      {
+        "nomenclador": "SPTH-VIAL",
+        "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+        "kit": [
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5685",
+            "descripcion": "Cargo amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "5789",
+            "descripcion": "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5711",
+            "descripcion": "Amarillo fluo con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5725",
+            "descripcion": "Con visera amarillo fluo"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "6790",
+            "descripcion": "Amarillo fluo con reflectivo VIAL"
+          },
+          {
+            "prenda": "Lentes",
+            "cantidad": 1,
+            "codigo": "6187",
+            "descripcion": "Lentes Seguridad Fitlogic fume con filtro UV"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "frente": "TALLER",
+    "sectores": [
+      {
+        "nomenclador": "MAVA-T",
+        "descripcion": "Taller (Juan Bonfiglio)",
+        "kit": [
+          {
+            "prenda": "Chomba",
+            "cantidad": 2,
+            "codigo": "5682",
+            "descripcion": "Manga corta azul marino SIN reflectivo"
+          },
+          {
+            "prenda": "Pantalon",
+            "cantidad": 2,
+            "codigo": "5689",
+            "descripcion": "Cargo azul marino con reflectivo"
+          },
+          {
+            "prenda": "Remera",
+            "cantidad": 2,
+            "codigo": "5705",
+            "descripcion": "Azul marino sin reflectivo"
+          },
+          {
+            "prenda": "Campera",
+            "cantidad": 1,
+            "codigo": "5713",
+            "descripcion": "Azul marino con reflectivo"
+          },
+          {
+            "prenda": "Calzado",
+            "cantidad": 1,
+            "codigo": "882",
+            "descripcion": "Zapato seguridad dialectrico con puntera"
+          },
+          {
+            "prenda": "Gorra",
+            "cantidad": 1,
+            "codigo": "5724",
+            "descripcion": "Con visera azul marino"
+          },
+          {
+            "prenda": "Chaleco",
+            "cantidad": 1,
+            "codigo": "4317",
+            "descripcion": "Amarillo fluo con reflectivo"
+          }
+        ]
+      }
+    ]
+  }
+]
