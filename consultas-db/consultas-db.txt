@@ -1,0 +1,378 @@
+Por Frente, obtener la cantidad de personal asignado y su estado.
+
+db.empleados_talles.aggregate([
+  {
+    $group: {
+
+      // Agrupamos por dos campos a la vez
+      _id: {
+        frente_trabajo: "$frente_trabajo",
+        estado: "$estado"
+      },
+      // Contamos cuantos documentos caen en este grupo
+      cantidad_empleados: { $sum: 1 }
+    }
+  },
+  {
+    
+    $sort: { "_id.frente_trabajo": 1, "_id.estado": 1 }
+  }
+])
+
+
+
+Por Categoría, obtener la cantidad de personal asignado y su estado.
+
+db.empleados_talles.aggregate([
+  {
+    $group: {
+      _id: {
+        categoria: "$categoria",
+        estado: "$estado"
+      },
+      cantidad_empleados: { $sum: 1 }
+    }
+  },
+  {
+    $sort: { "_id.categoria": 1, "_id.estado": 1 }
+  }
+])
+
+Por Frente, obtener:
+ - Cantidad por Categoría (personal asignado y su estado).
+
+db.empleados_talles.aggregate([
+  {
+    $group: {
+      _id: {
+        frente_trabajo: "$frente_trabajo",
+        categoria: "$categoria",
+        estado: "$estado"
+      },
+      cantidad_empleados: { $sum: 1 }
+    }
+  },
+  {
+    
+    $sort: { 
+      "_id.frente_trabajo": 1, 
+      "_id.categoria": 1, 
+      "_id.estado": 1 
+    }
+  }
+])
+
+Por Frente, obtener:
+ - Cantidad por Sector/Nomenclador (personal asignado y su estado).
+
+db.empleados_talles.aggregate([
+  {
+    $group: {
+      _id: {
+        frente_trabajo: "$frente_trabajo",
+        nomenclador: "$nomenclador",
+        estado: "$estado"
+      },
+      cantidad_empleados: { $sum: 1 }
+    }
+  },
+  {
+    $sort: { 
+      "_id.frente_trabajo": 1, 
+      "_id.nomenclador": 1, 
+      "_id.estado": 1 
+    }
+  }
+])
+
+
+
+Por Frente, obtener:
+ - Cantidad por Categoría y Sector/Nomenclador (personal asignado y su estado).
+
+db.empleados_talles.aggregate([
+  {
+    $group: {
+      _id: {
+        frente_trabajo: "$frente_trabajo",
+        categoria: "$categoria",
+        nomenclador: "$nomenclador",
+        estado: "$estado"
+      },
+      cantidad_empleados: { $sum: 1 }
+    }
+  },
+  {
+    $sort: { 
+      "_id.frente_trabajo": 1, 
+      "_id.categoria": 1, 
+      "_id.nomenclador": 1, 
+      "_id.estado": 1 
+    }
+  }
+])
+
+
+Obtener la distribución de Sector/Nomenclador por Categoría.
+
+db.empleados_talles.aggregate([
+
+  //contamos cuántas personas hay por cada combinación exacta
+  {
+    $group: {
+      _id: {
+        categoria: "$categoria",
+        nomenclador: "$nomenclador"
+      },
+      cantidad: { $sum: 1 }
+    }
+  },
+  // re-agrupamos  por categoría, y armamos la distribución en una lista
+  {
+    $group: {
+      _id: "$_id.categoria", // El grupo principal ahora es la Categoría
+      distribucion_sectores: {
+        $push: {
+          nomenclador: "$_id.nomenclador",
+          cantidad: "$cantidad"
+        }
+      },
+      total_en_categoria: { $sum: "$cantidad" } // ¡Un dato extra que le suma al TP!
+    }
+  },
+  
+  {
+    $sort: { "_id": 1 }
+  }
+])
+
+Obtener la distribución de Categorías por Sector/Nomenclador.
+
+db.empleados_talles.aggregate([
+  // count
+  {
+    $group: {
+      _id: {
+        nomenclador: "$nomenclador",
+        categoria: "$categoria"
+      },
+      cantidad: { $sum: 1 }
+    }
+  },
+  // agrupamos por nomen y metemos las categorías a la lista
+  {
+    $group: {
+      _id: "$_id.nomenclador", // El grupo principal ahora es el Sector
+      distribucion_categorias: {
+        $push: {
+          categoria: "$_id.categoria",
+          cantidad: "$cantidad"
+        }
+      },
+      total_en_sector: { $sum: "$cantidad" }
+    }
+  },
+
+  // sort por nomenclador
+  {
+    $sort: { "_id": 1 }
+  }
+])
+
+Obtener la distribución de tallas por prenda/accesorios sobre:
+ 
+- Personal activo/inactivo.
+
+db.empleados_talles.aggregate([
+  // Transformar el objeto de talles en un Array que Mongo pueda leer
+  // esto convierte { pantalon: "48" } en [{ k: "pantalon", v: "48" }]
+  {
+    $project: {
+      estado: 1, // Mantenemos el campo Estado
+      talles_array: { $objectToArray: "$talles" } 
+    }
+  },
+  
+  // separar ese array para que cada prenda tenga su propio registro temporal
+  {
+    $unwind: "$talles_array"
+  },
+  
+  // agrupamos y contamos cada combinacion exacta (estado + prenda + talle)
+  {
+    $group: {
+      _id: {
+        estado: "$estado",
+        prenda: "$talles_array.k", // "k" es la key (ej: pantalon)
+        talle: "$talles_array.v"   // "v" es el value (ej: "48")
+      },
+      cantidad: { $sum: 1 }
+    }
+  },
+  
+  // ordenamos para la distribucion
+  {
+    $group: {
+      _id: {
+        estado: "$_id.estado",
+        prenda: "$_id.prenda"
+      },
+      distribucion_talles: {
+        $push: {
+          talle: "$_id.talle",
+          cantidad: "$cantidad"
+        }
+      },
+      total_unidades: { $sum: "$cantidad" }
+    }
+  },
+  
+  // alfabeticamente
+  {
+    $sort: { "_id.estado": 1, "_id.prenda": 1 }
+  }
+])
+
+
+ - Frente.
+
+db.empleados_talles.aggregate([
+ 
+  {
+    $project: {
+      frente_trabajo: 1, // mantenemos el campo Estado
+      talles_array: { $objectToArray: "$talles" } 
+    }
+  },
+  
+   {
+    $unwind: "$talles_array"
+  },
+  
+  {
+    $group: {
+      _id: {
+        frente_trabajo: "$frente_trabajo",
+        prenda: "$talles_array.k", // "k" es la key (ej: pantalon)
+        talle: "$talles_array.v"   // "v" es el value (ej: "48")
+      },
+      cantidad: { $sum: 1 }
+    }
+  },
+  
+  {
+    $group: {
+      _id: {
+        frente_trabajo: "$_id.frente_trabajo",
+        prenda: "$_id.prenda"
+      },
+      distribucion_talles: {
+        $push: {
+          talle: "$_id.talle",
+          cantidad: "$cantidad"
+        }
+      },
+      total_unidades: { $sum: "$cantidad" }
+    }
+  },
+  
+   {
+    $sort: { "_id.frente_trabajo": 1, "_id.prenda": 1 }
+  }
+])
+
+ - Sector/Nomenclador.
+
+db.empleados_talles.aggregate([
+ 
+  {
+    $project: {
+      nomenclador: 1, // mantenemos el campo Estado
+      talles_array: { $objectToArray: "$talles" } 
+    }
+  },
+  
+  {
+    $unwind: "$talles_array"
+  },
+  
+    {
+    $group: {
+      _id: {
+        nomenclador: "$nomenclador",
+        prenda: "$talles_array.k", // "k" es la key (ej: pantalon)
+        talle: "$talles_array.v"   // "v" es el value (ej: "48")
+      },
+      cantidad: { $sum: 1 }
+    }
+  },
+  
+   {
+    $group: {
+      _id: {
+        nomenclador: "$nomenclador",
+        prenda: "$_id.prenda"
+      },
+      distribucion_talles: {
+        $push: {
+          talle: "$_id.talle",
+          cantidad: "$cantidad"
+        }
+      },
+      total_unidades: { $sum: "$cantidad" }
+    }
+  },
+  
+  {
+    $sort: { "_id.nomenclador": 1, "_id.prenda": 1 }
+  }
+])
+
+ - Categoría
+
+db.empleados_talles.aggregate([
+
+  {
+    $project: {
+      categoria: 1, // mantenemos el campo Estado
+      talles_array: { $objectToArray: "$talles" } 
+    }
+  },
+  
+   {
+    $unwind: "$talles_array"
+  },
+  
+   {
+    $group: {
+      _id: {
+        categoria: "$categoria",
+        prenda: "$talles_array.k", // "k" es la key (ej: pantalon)
+        talle: "$talles_array.v"   // "v" es el value (ej: "48")
+      },
+      cantidad: { $sum: 1 }
+    }
+  },
+  
+
+  {
+    $group: {
+      _id: {
+        categoria: "$_id.categoria",
+        prenda: "$_id.prenda"
+      },
+      distribucion_talles: {
+        $push: {
+          talle: "$_id.talle",
+          cantidad: "$cantidad"
+        }
+      },
+      total_unidades: { $sum: "$cantidad" }
+    }
+  },
+  
+  {
+    $sort: { "_id.categoria": 1, "_id.prenda": 1 }
+  }
+])
+
