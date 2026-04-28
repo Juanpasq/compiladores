@@ -1,0 +1,48 @@
+//Nuevo empleado, cambiar ID y nombres por el que necesitemos.
+
+db.empleados_talles.insertOne({
+  _id: 105, // Su número de legajo
+  nombre_apellido: "Martín Gómez",
+  estado: "Activo",
+  frente_trabajo: "CONSERVACION",
+  nomenclador: "MAV",
+  categoria: "AYUDANTE",
+  talles: {
+    pantalon: "46",
+    camisa: "L",
+    calzado: "43",
+    campera: "XL"
+  }
+});
+
+
+//Nuevo frente > sector (dependiendo si necesitamos un sector dentro de un frente editamos los datos)
+
+db.sectores_prendas.insertOne({
+  _id: 3, // El ID correlativo del Frente
+  frente: "TECNOLOGIA",
+  sectores: [
+    {
+      nomenclador: "IT",
+      descripcion: "Soporte Técnico en Peajes",
+      kit: [
+        {
+          prenda: "Chomba",
+          cantidad: 2,
+          codigo: "8001",
+          descripcion: "Chomba azul de algodón",
+          renovacion_meses: 6,
+          temporadas: ["Primavera/Verano", "Otoño/Invierno"]
+        },
+        {
+          prenda: "Campera",
+          cantidad: 1,
+          codigo: "8050",
+          descripcion: "Campera rompevientos azul",
+          renovacion_meses: 12,
+          temporadas: ["Otoño/Invierno"]
+        }
+      ]
+    }
+  ]
+});
