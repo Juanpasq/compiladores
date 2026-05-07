@@ -376,3 +376,196 @@ db.empleados_talles.aggregate([
   }
 ])
 
+Por Prenda/Accesorio, obtener la cantidad total a solicitar y distribuir. 
+
+db.sectores_prendas.aggregate([
+  // 1. Desarmamos la lista de sectores
+  { 
+    $unwind: "$sectores" 
+  },
+  
+  // 2. Desarmamos la lista de kits que estaba adentro de cada sector
+  { 
+    $unwind: "$sectores.kit" 
+  },
+  
+  // 3. Agrupamos por el nombre de la prenda y sumamos la propiedad "cantidad"
+  {
+    $group: {
+      _id: "$sectores.kit.prenda",
+      cantidad_total_kits: { $sum: "$sectores.kit.cantidad" }
+    }
+  },
+  
+  // 4. Ordenamos de mayor a menor cantidad para que el reporte quede profesional
+  {
+    $sort: { cantidad_total_kits: -1 }
+  }
+])
+
+
+Por Prenda/Accesorio y Código/Descripción, obtener la cantidad a solicitar y distribuir. 
+
+db.sectores_prendas.aggregate([
+  // 1. Desarmamos la lista de sectores
+  { 
+    $unwind: "$sectores" 
+  },
+  
+  // 2. Desarmamos la lista de kits
+  { 
+    $unwind: "$sectores.kit" 
+  },
+  
+  // 3. Agrupamos por Prenda, Código y Descripción al mismo tiempo
+  {
+    $group: {
+      _id: {
+        prenda: "$sectores.kit.prenda",
+        codigo: "$sectores.kit.codigo",
+        descripcion: "$sectores.kit.descripcion"
+      },
+      // ACÁ ESTABA EL ERROR: ahora tiene guiones bajos corridos
+      cantidad_total_a_distribuir: { $sum: "$sectores.kit.cantidad" } 
+    }
+  },
+  
+  // 4. Ordenamos alfabéticamente por Prenda, y luego por Código
+  {
+    $sort: { 
+      "_id.prenda": 1, 
+      "_id.codigo": 1 
+    }
+  }
+])
+
+
+Por Prenda/Accesorio y Sector, obtener la cantidad a solicitar y distribuir.
+
+db.sectores_prendas.aggregate([
+  // 1. Desarmamos la lista de sectores
+  { 
+    $unwind: "$sectores" 
+  },
+  
+  // 2. Desarmamos la lista de kits
+  { 
+    $unwind: "$sectores.kit" 
+  },
+  
+  // 3. Agrupamos por Prenda y por Sector
+  {
+    $group: {
+      _id: {
+        prenda: "$sectores.kit.prenda",
+        sector: "$sectores.descripcion" // Podés usar "$sectores.nomenclador" si preferís la sigla
+      },
+      cantidad_total_a_distribuir: { $sum: "$sectores.kit.cantidad" }
+    }
+  },
+  
+  // 4. Ordenamos alfabéticamente para que sea fácil de leer
+  {
+    $sort: { 
+      "_id.prenda": 1, 
+      "_id.sector": 1 
+    }
+  }
+])
+
+Por Prenda, obtener la cantidad total a solicitar y distribuir y a qué Sector aplican (+4% stock)
+
+db.sectores_prendas.aggregate([
+  // 1. y 2. Desarmamos las listas
+  { 
+    $unwind: "$sectores" 
+  },
+  { 
+    $unwind: "$sectores.kit" 
+  },
+  
+  // 3. Agrupamos por Prenda y sumamos la base
+  {
+    $group: {
+      _id: "$sectores.kit.prenda",
+      cantidad_base: { $sum: "$sectores.kit.cantidad" },
+      sectores_que_aplican: { $addToSet: "$sectores.descripcion" }
+    }
+  },
+  
+  // 4. Magia matemática: Calculamos el 4% extra y el Total Final
+  {
+    $addFields: {
+      adicional_stock_4_porciento: { 
+        $ceil: { $multiply: [ "$cantidad_base", 0.04 ] } 
+      },
+      total_final_a_comprar: { 
+        $ceil: { $multiply: [ "$cantidad_base", 1.04 ] } 
+      }
+    }
+  },
+  
+  // 5. Ordenamos
+  {
+    $sort: { "_id": 1 }
+  }
+])
+
+
+ Obtener la distribución de tallas por prenda/accesorios sobre:  Frente y Sector. 
+
+db.empleados_talles.aggregate([
+  // 1. "Aplanamos" los talles: convertimos los campos talle_remera, talle_pantalon, etc. en una lista
+  {
+    $project: {
+      frente: 1,
+      sector: 1, // Cambialo por "categoria" si ese es el nombre en tu colección de empleados
+      talles_unificados: [
+        { prenda: "Remera/Chomba", talle: "$talle_remera" },
+        { prenda: "Pantalon", talle: "$talle_pantalon" },
+        { prenda: "Calzado", talle: "$talle_calzado" }
+      ]
+    }
+  },
+
+  // 2. Desarmamos esa lista para tener un documento por cada prenda de cada empleado
+  { $unwind: "$talles_unificados" },
+
+  // 3. Agrupamos por Frente, Sector, Prenda y el valor del Talle
+  {
+    $group: {
+      _id: {
+        frente: "$frente",
+        sector: "$sector",
+        prenda: "$talles_unificados.prenda",
+        talle: "$talles_unificados.talle"
+      },
+      cantidad_personas: { $sum: 1 }
+    }
+  },
+
+  // 4. Aplicamos tu criterio del 4% adicional sobre la demanda real de talles
+  {
+    $addFields: {
+      stock_seguridad_4_porciento: { 
+        $ceil: { $multiply: ["$cantidad_personas", 0.04] } 
+      },
+      total_a_solicitar: { 
+        $ceil: { $multiply: ["$cantidad_personas", 1.04] } 
+      }
+    }
+  },
+
+  // 5. Ordenamos para que el reporte sea fácil de leer
+  {
+    $sort: { 
+      "_id.frente": 1, 
+      "_id.sector": 1, 
+      "_id.prenda": 1, 
+      "_id.talle": 1 
+    }
+  }
+])
+
+
+
