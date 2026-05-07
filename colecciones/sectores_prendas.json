@@ -1,0 +1,2808 @@
+[{
+  "_id": 1,
+  "frente": "COMERCIAL",
+  "sectores": [
+    {
+      "nomenclador": "ADMM-MDP",
+      "descripcion": "Administración Comercial MDP (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6372",
+          "descripcion": "Jean elastizado",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "ADMV-MDP",
+      "descripcion": "Administración Comercial MDP",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTM-MDP",
+      "descripcion": "Supervisores Comercial MDP (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6372",
+          "descripcion": "Jean elastizado",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 2,
+  "frente": "CONSERVACION",
+  "sectores": [
+    {
+      "nomenclador": "PAS",
+      "descripcion": "Pasantes",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5684",
+          "descripcion": "Cargo naranja fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5692",
+          "descripcion": "Manga larga naranja fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6181",
+          "descripcion": "Naranja fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5710",
+          "descripcion": "Naranja fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "6000",
+          "descripcion": "Botin dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5723",
+          "descripcion": "Con visera naranja fluo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAV",
+      "descripcion": "Mantenimiento Vial UOCRA",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5684",
+          "descripcion": "Cargo naranja fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5692",
+          "descripcion": "Manga larga naranja fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6181",
+          "descripcion": "Naranja fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5710",
+          "descripcion": "Naranja fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "6000",
+          "descripcion": "Botin dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5723",
+          "descripcion": "Con visera naranja fluo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAVA",
+      "descripcion": "Mantenimiento Vial UOCRA",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5684",
+          "descripcion": "Cargo naranja fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5692",
+          "descripcion": "Manga larga naranja fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6181",
+          "descripcion": "Naranja fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5710",
+          "descripcion": "Naranja fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "6000",
+          "descripcion": "Botin dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5723",
+          "descripcion": "Con visera naranja fluo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SJU",
+      "descripcion": "Supervisores y Administración UOCRA",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 3,
+  "frente": "ESTACION A",
+  "sectores": [
+    {
+      "nomenclador": "ADMM",
+      "descripcion": "Administración Mañana",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "759",
+          "descripcion": "Vestir negro Mujer",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "548",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "6182",
+          "descripcion": "Azul marino sin reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "ADMV",
+      "descripcion": "Administración Varios / Vespertino",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "559",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "6182",
+          "descripcion": "Azul marino sin reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "BAN",
+      "descripcion": "Banderillero",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5685",
+          "descripcion": "Cargo amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5693",
+          "descripcion": "Manga larga amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "5789",
+          "descripcion": "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5711",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5725",
+          "descripcion": "Con visera amarillo fluo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "6187",
+          "descripcion": "Lentes Seguridad Fitlogic fume con filtro UV",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "CAJ",
+      "descripcion": "Cajeros",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "JEF-H",
+      "descripcion": "Jefes de Estación y Otros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "559",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "JEF-M",
+      "descripcion": "Jefes de Estación y Otros (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "759",
+          "descripcion": "Vestir negro Mujer",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "548",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAE",
+      "descripcion": "Maestranza (Operaciones)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAN",
+      "descripcion": "Mantenimiento Electrónico y Sistemas",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5690",
+          "descripcion": "Cargo azul ignifugo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5698",
+          "descripcion": "Manga larga azul ignifuga con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5716",
+          "descripcion": "Azul marino ignifugo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SEG",
+      "descripcion": "Servicios Generales",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6816",
+          "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SJU",
+      "descripcion": "Supervisores y Administración UOCRA",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTH",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTM",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "759",
+          "descripcion": "Vestir negro Mujer",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 4,
+  "frente": "ESTACION B",
+  "sectores": [
+    {
+      "nomenclador": "ADMV",
+      "descripcion": "Administración Varios / Vespertino",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "559",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "6182",
+          "descripcion": "Azul marino sin reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "CAJ",
+      "descripcion": "Cajeros",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "JEF-H",
+      "descripcion": "Jefes de Estación y Otros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "559",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAE",
+      "descripcion": "Maestranza (Operaciones)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAN",
+      "descripcion": "Mantenimiento Electrónico y Sistemas",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5690",
+          "descripcion": "Cargo azul ignifugo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5698",
+          "descripcion": "Manga larga azul ignifuga con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5716",
+          "descripcion": "Azul marino ignifugo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SEG",
+      "descripcion": "Servicios Generales",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6816",
+          "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTH",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTM",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "759",
+          "descripcion": "Vestir negro Mujer",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 5,
+  "frente": "ESTACION C",
+  "sectores": [
+    {
+      "nomenclador": "CAJ",
+      "descripcion": "Cajeros",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "JEF-H",
+      "descripcion": "Jefes de Estación y Otros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "559",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAE",
+      "descripcion": "Maestranza (Operaciones)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAN",
+      "descripcion": "Mantenimiento Electrónico y Sistemas",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5690",
+          "descripcion": "Cargo azul ignifugo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5698",
+          "descripcion": "Manga larga azul ignifuga con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5716",
+          "descripcion": "Azul marino ignifugo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SEG",
+      "descripcion": "Servicios Generales",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6816",
+          "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTH",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTM",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "759",
+          "descripcion": "Vestir negro Mujer",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 6,
+  "frente": "ESTACION D",
+  "sectores": [
+    {
+      "nomenclador": "ADMM",
+      "descripcion": "Administración Mañana",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "759",
+          "descripcion": "Vestir negro Mujer",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "548",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "6182",
+          "descripcion": "Azul marino sin reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "CAJ",
+      "descripcion": "Cajeros",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "JEF-H",
+      "descripcion": "Jefes de Estación y Otros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "559",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAE",
+      "descripcion": "Maestranza (Operaciones)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAN",
+      "descripcion": "Mantenimiento Electrónico y Sistemas",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5690",
+          "descripcion": "Cargo azul ignifugo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5698",
+          "descripcion": "Manga larga azul ignifuga con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5716",
+          "descripcion": "Azul marino ignifugo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SEG",
+      "descripcion": "Servicios Generales",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6816",
+          "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTH",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 7,
+  "frente": "ESTACION E",
+  "sectores": [
+    {
+      "nomenclador": "CAJ",
+      "descripcion": "Cajeros",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "JEF-M",
+      "descripcion": "Jefes de Estación y Otros (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "759",
+          "descripcion": "Vestir negro Mujer",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "548",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGA LARGA DAMA",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAE",
+      "descripcion": "Maestranza (Operaciones)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAN",
+      "descripcion": "Mantenimiento Electrónico y Sistemas",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5690",
+          "descripcion": "Cargo azul ignifugo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5698",
+          "descripcion": "Manga larga azul ignifuga con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5716",
+          "descripcion": "Azul marino ignifugo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SEG",
+      "descripcion": "Servicios Generales",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6816",
+          "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTH",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 8,
+  "frente": "OFICINA",
+  "sectores": [
+    {
+      "nomenclador": "SJO",
+      "descripcion": "Supervisores de Obra (Oficina Técnica)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SJO-1",
+      "descripcion": "Supervisores de Obra (Mujeres)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "6177",
+          "descripcion": "Manga corta azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6372",
+          "descripcion": "Jean elastizado",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 9,
+  "frente": "RADIO AM",
+  "sectores": [
+    {
+      "nomenclador": "LOC",
+      "descripcion": "Locutores Radio",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "6182",
+          "descripcion": "Azul marino sin reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "PROD-R",
+      "descripcion": "Productores Radio",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 10,
+  "frente": "SERVICIO",
+  "sectores": [
+    {
+      "nomenclador": "ADMV",
+      "descripcion": "Administración Varios / Vespertino",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "6371",
+          "descripcion": "Pantalon de gabardina azul - tipo jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "559",
+          "descripcion": "CAMISA DE VESTIR BLANCA MANGAS LARGA CABALLERO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "6182",
+          "descripcion": "Azul marino sin reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "AGV",
+      "descripcion": "Agente Vial y Supervisores",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5685",
+          "descripcion": "Cargo amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "5789",
+          "descripcion": "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5711",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5725",
+          "descripcion": "Con visera amarillo fluo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "6790",
+          "descripcion": "Amarillo fluo con reflectivo VIAL",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "6187",
+          "descripcion": "Lentes Seguridad Fitlogic fume con filtro UV",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "CAE",
+      "descripcion": "PCL - CAE",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "369",
+          "descripcion": "Jean",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        }
+      ]
+    },
+    {
+      "nomenclador": "MAN",
+      "descripcion": "Mantenimiento Electrónico y Sistemas",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5690",
+          "descripcion": "Cargo azul ignifugo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5698",
+          "descripcion": "Manga larga azul ignifuga con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5716",
+          "descripcion": "Azul marino ignifugo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "5512",
+          "descripcion": "Seguridad Inactinos filtro UV Para soldar",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SEG",
+      "descripcion": "Servicios Generales",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Camisa",
+          "cantidad": 2,
+          "codigo": "5696",
+          "descripcion": "CAMISA TIPO OMBU M/LARGAS AZUL MARINO C/REFLECTIVO",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "6816",
+          "descripcion": "REMERA MANGA CORTA AZUL MARINO CON REFLECTIVO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    },
+    {
+      "nomenclador": "SPTH-VIAL",
+      "descripcion": "Supervisores de Peaje y Tesoreros (Hombres)",
+      "kit": [
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5685",
+          "descripcion": "Cargo amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "5789",
+          "descripcion": "REMERA MANGA CORTA AMARILLO FLUOR IGNÍFUGO",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5711",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5725",
+          "descripcion": "Con visera amarillo fluo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "6790",
+          "descripcion": "Amarillo fluo con reflectivo VIAL",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Lentes",
+          "cantidad": 1,
+          "codigo": "6187",
+          "descripcion": "Lentes Seguridad Fitlogic fume con filtro UV",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 11,
+  "frente": "TALLER",
+  "sectores": [
+    {
+      "nomenclador": "MAVA-T",
+      "descripcion": "Taller (Juan Bonfiglio)",
+      "kit": [
+        {
+          "prenda": "Chomba",
+          "cantidad": 2,
+          "codigo": "5682",
+          "descripcion": "Manga corta azul marino SIN reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Pantalon",
+          "cantidad": 2,
+          "codigo": "5689",
+          "descripcion": "Cargo azul marino con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Remera",
+          "cantidad": 2,
+          "codigo": "5705",
+          "descripcion": "Azul marino sin reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Primavera/Verano"
+        },
+        {
+          "prenda": "Campera",
+          "cantidad": 1,
+          "codigo": "5713",
+          "descripcion": "Azul marino con reflectivo",
+          "frecuencia_meses": 12,
+          "temporada": "Otoño/Invierno"
+        },
+        {
+          "prenda": "Calzado",
+          "cantidad": 1,
+          "codigo": "882",
+          "descripcion": "Zapato seguridad dialectrico con puntera",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Gorra",
+          "cantidad": 1,
+          "codigo": "5724",
+          "descripcion": "Con visera azul marino",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        },
+        {
+          "prenda": "Chaleco",
+          "cantidad": 1,
+          "codigo": "4317",
+          "descripcion": "Amarillo fluo con reflectivo",
+          "frecuencia_meses": 6,
+          "temporada": "Ambas"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": 999,
+  "frente": "IT",
+  "sectores": [
+    {
+      "nomenclador": "IT-D",
+      "descripcion": "Desarrollo",
+      "kit": [
+        {
+          "prenda": "Silla",
+          "cantidad": 1,
+          "codigo": "7777",
+          "descripcion": "Silla oficina"
+        }
+      ]
+    }
+  ]
+}]
