@@ -397,7 +397,7 @@ db.sectores_prendas.aggregate([
     }
   },
   
-  // 4. Ordenamos de mayor a menor cantidad para que el reporte quede profesional
+  // 4. Ordenamos de mayor a menor cantidad
   {
     $sort: { cantidad_total_kits: -1 }
   }
@@ -464,7 +464,7 @@ db.sectores_prendas.aggregate([
     }
   },
   
-  // 4. Ordenamos alfabéticamente para que sea fácil de leer
+  // 4. Ordenamos 
   {
     $sort: { 
       "_id.prenda": 1, 
@@ -493,7 +493,7 @@ db.sectores_prendas.aggregate([
     }
   },
   
-  // 4. Magia matemática: Calculamos el 4% extra y el Total Final
+  // 4.Calculamos el 4% extra y el Total Final
   {
     $addFields: {
       adicional_stock_4_porciento: { 
@@ -515,7 +515,7 @@ db.sectores_prendas.aggregate([
  Obtener la distribución de tallas por prenda/accesorios sobre:  Frente y Sector. 
 
 db.empleados_talles.aggregate([
-  // 1. "Aplanamos" los talles: convertimos los campos talle_remera, talle_pantalon, etc. en una lista
+  // 1. Aplanamos los talles convertimos los campos talle_remera, talle_pantalon, etc. en una lista
   {
     $project: {
       frente: 1,
@@ -528,7 +528,7 @@ db.empleados_talles.aggregate([
     }
   },
 
-  // 2. Desarmamos esa lista para tener un documento por cada prenda de cada empleado
+  // 2. Desarmamos  lista para tener un documento por cada prenda de cada empleado
   { $unwind: "$talles_unificados" },
 
   // 3. Agrupamos por Frente, Sector, Prenda y el valor del Talle
@@ -544,7 +544,7 @@ db.empleados_talles.aggregate([
     }
   },
 
-  // 4. Aplicamos tu criterio del 4% adicional sobre la demanda real de talles
+  // 4. Aplicamos criterio del 4% adicional sobre la demanda  de talles
   {
     $addFields: {
       stock_seguridad_4_porciento: { 
@@ -556,7 +556,7 @@ db.empleados_talles.aggregate([
     }
   },
 
-  // 5. Ordenamos para que el reporte sea fácil de leer
+  // 5. Ordenamos 
   {
     $sort: { 
       "_id.frente": 1, 
